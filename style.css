@@ -1,0 +1,205 @@
+body {
+    font-family: Montserrat;
+}
+
+.header {
+    display: flex;
+}
+
+.logo {
+    margin-left: 250px;
+}
+
+.text {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.hackaton {
+    background: left 100% no-repeat url(img/background.png);
+    background-color: rgb(101, 87, 179);
+    color: white;
+
+}
+
+.klon {
+    font-family: Poetsen One;
+    margin-left: 800px;
+}
+
+.data {
+    margin-left: 300px;
+}
+
+.ua {
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(70, 6, 129);
+    padding: 5px;
+}
+
+.a {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.main {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+}
+
+.h2 {
+    padding-top: 40px;
+}
+
+.date {
+    text-align: center;
+    color: white;
+}
+
+main {
+    background-image: linear-gradient(rgb(79, 32, 124), rgb(93, 95, 189), rgb(79, 32, 124), rgb(93, 95, 189));
+}
+
+.tg {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    color: white;
+}
+
+.program {
+    color: white;
+    text-align: center;
+}
+
+.start {
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+}
+
+.h1 {
+    color: rgb(140, 0, 255);
+}
+
+.tex {
+    text-align: center;
+    background-color: rgb(226, 72, 213);
+    border-radius: 40px;
+    margin-left: 500px;
+    padding: 2px;
+    margin-right: 530px;
+    margin-top: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.nomination {
+    color: white;
+    margin-left: 250px;
+}
+
+.nominations {
+    display: flex;
+    margin-left: 100px;
+}
+
+.nom {
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(173, 213, 245);
+    margin-left: 100px;
+    margin-bottom: 280px;
+    color: rgb(105, 40, 165);
+}
+
+.win {
+    background-color: rgb(226, 72, 213);
+    color: white;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.nominat{
+    display: flex;
+}
+.nomi{
+    display: flex;
+    margin-right: 500px;  
+}
+.take{
+    margin-left: 150px;
+    background-color: rgb(226, 72, 213);
+    border-radius: 30px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-bottom: 120px;
+}
+.tak{
+    display: flex;
+    margin-left: 50px;
+}
+.tae{
+    display: flex;
+    margin-left: 50px;
+}
+.log{
+    margin-top:20px ;
+    margin-left: 20px;
+}
+.h4{
+    color: #747474;
+}
+.rozklad{
+text-align: center;
+background-color: rgb(226, 72, 213);
+margin-left: 520px;
+margin-right: 520px;
+border-radius: 20px;
+padding: 2px;
+}
+.man{
+    background-image: linear-gradient(rgb(95, 0, 124),rgb(206, 123, 195));
+}
+.webin{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.Scratch{
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.zagolovok{
+    color: rgb(89, 0, 255);
+    text-align: center;
+}
+.oznauomlenna{
+    display: flex;
+    margin-left: 40px;
+}
+.zapus{
+    margin-left: 50px;
+    background-color: rgb(126, 233, 233);
+    border-radius: 10px;
+    padding: 5px;
+    color: #000;
+}
+.cup{
+    margin-left: 100px;
+}
